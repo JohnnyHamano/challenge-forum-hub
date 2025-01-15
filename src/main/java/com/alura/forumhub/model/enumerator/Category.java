@@ -1,0 +1,16 @@
+package com.alura.forumhub.model.enumerator;
+
+public enum Category
+{
+	OFF_TOPIC,
+	GENERAL_DISCUSSION,
+	PROGRAMMING,
+	MOBILE,
+	WEBDESIGN,
+	UX_DESIGN,
+	FRONT_END,
+	BACK_END,
+	DEV_OPS,
+	DATA_SCIENCE,
+	ARTIFICIAL_INTELLIGENCE
+}
